@@ -1,0 +1,1 @@
+/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Classes/Extension functions/build/classes/java/main/RationalNumber.class:/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Classes/Extension functions/build/classes/java/main/TaskKt.class
