@@ -1,0 +1,1 @@
+/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Conventions/Invoke/build/classes/java/main/Invokable.class:/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Conventions/Invoke/build/classes/java/main/TaskKt.class

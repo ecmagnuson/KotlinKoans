@@ -1,0 +1,1 @@
+/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Conventions/Comparison/build/classes/java/main/MyDate.class:/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Conventions/Comparison/build/classes/java/main/TaskKt.class

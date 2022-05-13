@@ -1,10 +1,17 @@
 class Invokable {
     var numberOfInvocations: Int = 0
-        private set
+        private set //private setter
 
     operator fun invoke(): Invokable {
-        TODO()
+        numberOfInvocations++
+        return this
     }
 }
 
 fun invokeTwice(invokable: Invokable) = invokable()()
+
+fun main() {
+    var invok = Invokable().invoke()
+    println(invok)
+    println(invok.numberOfInvocations)
+}
