@@ -1,0 +1,1 @@
+/home/elliott/.sourcecode/KotlinKoans/Kotlin Koans/Introduction/Nothing type/build/classes/java/main/TaskKt.class
